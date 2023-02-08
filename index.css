@@ -358,7 +358,7 @@ aside img {
 
 @media (max-width: 383px) {
   .lcldownbtns > button{
-    /* float: left; */
+    float: left;
     margin-right: 5px;
   }
 }

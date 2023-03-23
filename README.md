@@ -16,5 +16,3 @@
     <li>First commit: 9th Febuary, 2023</li>
     <li>Last commit: 23rd March, 2023</li>
   </ul>
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License.</p>
